@@ -9,7 +9,9 @@ const Router: React.FC = () => {
   return (
     <Switch>
       <Route path="/" exact component={Dashboard} />
-      <Route path="/repository" component={Repository} />
+      {/* quando a gente poe o + no final indicia que a rota vai
+      ser tudo que vier depois do nome */}
+      <Route path="/repositories/:repository+" component={Repository} />
     </Switch>
   );
 };
