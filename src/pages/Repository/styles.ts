@@ -63,7 +63,7 @@ export const RepositoryInfo = styled.section`
       strong {
         display: block;
         font-size: 36px;
-        color: ##3d3d4d;
+        color: #3d3d4d;
       }
 
       span {
