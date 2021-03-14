@@ -2,7 +2,7 @@
 
 <p>Aplicação para consultar repositórios na API do GitHub realizada com propósito de praticar conceitos do ReactJS utilizando Typescript.</p>
 
-<p>Projeto realizado através de aula prática na <a href="https://rocketseat.com.br/">Rockseat</a></p>
+<p>Projeto realizado através de aula prática na <a href="https://rocketseat.com.br/">Rockseat</a>.</p>
 
 <h2>Tecnologias</h2>
 <ul>
